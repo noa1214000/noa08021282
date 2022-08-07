@@ -1,0 +1,319 @@
+/* ターゲット */
+#target0{
+    background-image:url(img/allergy02_ebi_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target0.radius{
+    background-image:url(img/allergy02_ebi_0.png);
+  }
+  
+  #target1{
+    background-image:url(img/allergy01_kani.png_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target1.radius{
+    background-image:url(img/allergy01_kani\ .png_0.png);
+  }
+  
+  #target2{
+    background-image:url(img/allergy06_komugi_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target2.radius{
+    background-image:url(img/allergy06_komugi_0.png);
+  }
+  
+  #target3{
+    background-image:url(img/allergy07_soba_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target3.radius{
+    background-image:url(img/allergy07_soba_0.png);
+  }
+  
+  #target4{
+    background-image:url(img/allergy03_tamago_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target4.radius{
+    background-image:url(img/allergy03_tamago_0.png);
+  }
+  
+  #target5{
+    background-image:url(img/allergy04_milk_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target5.radius{
+    background-image:url(img/allergy04_milk_0.png);
+  }
+  
+  #target6{
+    background-image:url(img/allergy05_peanut_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target6.radius{
+    background-image:url(img/allergy05_peanut_0.png);
+  }
+  
+  #target7{
+    background-image:url(img/allergy_almond_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target7.radius{
+    background-image:url(img/allergy_almond_0.png);
+  }
+  
+  #target8{
+    background-image:url(img/allergy08_awabi_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target8.radius{
+    background-image:url(img/allergy08_awabi_0.png);
+  } 
+  
+  #target9{
+    background-image:url(img/allergy_ika_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target9.radius{
+    background-image:url(img/allergy_ika_0.png);
+  } 
+  
+  #target10{
+    background-image:url(img/allergy10_ikura.png_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target10.radius{
+    background-image:url(img/allergy10_ikura.png_0.png);
+  } 
+  
+  #target11{
+    background-image:url(img/allergy11_mikan_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target11.radius{
+    background-image:url(img/allergy11_mikan_0.png);
+  } 
+  
+  #target12{
+    background-image:url(img/allergy12_cashew_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target12.radius{
+    background-image:url(img/allergy12_cashew_0.png);
+  } 
+  
+  #target13{
+    background-image:url(img/allergy13_kiwi_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target13.radius{
+    background-image:url(img/allergy13_kiwi_0.png);
+  } 
+  
+  #target14{
+    background-image:url(img/allergy14_gyuniku_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target14.radius{
+    background-image:url(img/allergy14_gyuniku_0.png);
+  } 
+  
+  #target15{
+    background-image:url(img/allergy15_kurumi_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target15.radius{
+    background-image:url(img/allergy15_kurumi_0.png);
+  } 
+  
+  #target16{
+    background-image:url(img/allergy16_goma_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target16.radius{
+    background-image:url(img/allergy16_goma_0.png);
+  } 
+  
+  #target17{
+    background-image:url(img/allergy17_sake_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target17.radius{
+    background-image:url(img/allergy17_sake_0.png);
+  } 
+  
+  #target18{
+    background-image:url(img/allergy18_saba_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target18.radius{
+    background-image:url(img/allergy18_saba_0.png);
+  } 
+  
+  #target19{
+    background-image:url(img/allergy19_daizu_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target19.radius{
+    background-image:url(img/allergy19_daizu_0.png);
+  } 
+  
+  #target20{
+    background-image:url(img/allergy20_toriniku_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target20.radius{
+    background-image:url(img/allergy20_toriniku_0.png);
+  } 
+  
+  #target21{
+    background-image:url(img/allergy21_banana_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target21.radius{
+    background-image:url(img/allergy21_banana_0.png);
+  } 
+  
+  #target22{
+    background-image:url(img/allergy22_butaniku_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target22.radius{
+    background-image:url(img/allergy22_butaniku_0.png);
+  } 
+  
+  #target23{
+    background-image:url(img/allergy23_matsutake_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target23.radius{
+    background-image:url(img/allergy23_matsutake_0.png);
+  } 
+  
+  #target24{
+    background-image:url(img/allergy24_momo_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target24.radius{
+    background-image:url(img/allergy24_momo_0.png);
+  } 
+  
+  #target25{
+    background-image:url(img/allergy25_yamaimo_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target25.radius{
+    background-image:url(img/allergy25_yamaimo_0.png);
+  } 
+  
+  #target26{
+    background-image:url(img/allergy26_ringo_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target26.radius{
+    background-image:url(img/allergy26_ringo_0.png);
+  } 
+  
+  #target27{
+    background-image:url(img/allergy27_gelatine_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target27.radius{
+    background-image:url(img/allergy27_gelatine_0.png);
+  } 
+  
+  #target28{
+    background-image:url(img/allergy_gyokairui_1.png);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    user-select: none;
+  }
+  #target28.radius{
+    background-image:url(img/allergy_gyokairui_0.png);
+  } 

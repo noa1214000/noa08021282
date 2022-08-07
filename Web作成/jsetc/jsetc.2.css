@@ -1,0 +1,23 @@
+div.haikei{
+    background: url(jsetc2.img/frame_animal_cat_yoko.jpg);
+    width: 800px;
+    height: 540px;
+    margin: auto;
+}
+
+div.ichi{
+    height: 150px;
+}
+
+div.p1{
+    margin-left: 310px;
+}
+
+input{
+    margin-left: 300px;
+}
+
+div.kotae{
+    margin-top: 30px;
+    margin-left: 300px;
+}
